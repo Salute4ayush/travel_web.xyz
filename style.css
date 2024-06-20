@@ -185,6 +185,22 @@ nav{
     color: rgb(98, 86, 86);
     margin-top: 6px;
 }
+.destination .pack-2 img{
+    height: 210px;
+    filter: brightness(0.5);
+    box-shadow: 2px 3px 20px darkslategrey;
+}
+.destination .pack-2 img:hover{
+    filter: brightness(1);
+}
+.destination .pack-4 img{
+    height: 210px;
+    filter: brightness(0.5);
+    box-shadow: 2px 3px 20px darkslategrey;
+}
+.destination .pack-4 img:hover{
+    filter: brightness(1);
+}
 
 /* Top Trending International Holiday Destinations */
 
@@ -218,23 +234,6 @@ nav{
     margin-left: 20px;
     color: rgb(98, 86, 86);
     margin-top: 6px;
-}
-
-.destination .pack-2 img{
-    height: 210px;
-    filter: brightness(0.5);
-    box-shadow: 2px 3px 20px darkslategrey;
-}
-.destination .pack-2 img:hover{
-    filter: brightness(1);
-}
-.destination .pack-4 img{
-    height: 210px;
-    filter: brightness(0.5);
-    box-shadow: 2px 3px 20px darkslategrey;
-}
-.destination .pack-4 img:hover{
-    filter: brightness(1);
 }
 .inter-dest .pack-2 img{
     height: 210px;
